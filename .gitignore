@@ -1,0 +1,10 @@
+# 运行时产物 / 本地配置，不入库
+downloads/
+*.config
+*.bak
+*bak_*
+验证_*/
+__pycache__/
+*.pyc
+*.part
+_失败清单_*.txt
